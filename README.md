@@ -28,7 +28,7 @@ The dataset used is **StatewiseTestingDetails.csv** from COVID-19 India data sou
 
 ## 📬 Contact:
 - **Name:** Divyendu Kumar
-  - **GitHub:**  [https://github.com/Divyendukumar/Covid-19-Statewise-Testing-India]
+  - **GitHub:**  [https://github.com/Divyendukumar]
 
 ## 📌 Conclusion:
 This project helped me strengthen my skills in:
